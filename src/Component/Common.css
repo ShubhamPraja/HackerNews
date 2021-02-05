@@ -1,0 +1,57 @@
+.votearrow {
+    width: 10px;
+    height: 10px;
+    border: 0px;
+    margin: 3px 2px 6px;
+}
+
+.title {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+}
+
+.nav-link:hover {
+    color: #828282;
+}
+
+.nav-link {
+    color: #828282;
+}
+
+
+
+.subtext {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 8pt;
+    color: #828282;
+}
+
+.box-1 {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    height: auto;
+    width: 80vw;
+    border: 2px solid black;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.box-2 {
+    position: absolute;
+    top: 15%;
+    left: 10%;
+    height: auto;
+    width: 80vw;
+    border: 2px solid black;
+}
+
+.box-22 {
+    position: absolute;
+    top: 20vh;
+    left: "0";
+    height: auto;
+    width: 80vw;
+    border: 2px solid black;
+    margin-left: -1.5vw;
+}
